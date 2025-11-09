@@ -7,7 +7,7 @@ The goal is to share stories by **real** people, with **real** names, with traff
 ## Table of Contents
 
 - [In-Depth Stories/Articles](#in-depth-storiesarticles) (8 articles)
-- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (16 posts)
+- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (19 posts)
 - [Lists of Projects Built with Laravel/PHP](#lists-of-projects-built-with-laravelphp) (8 lists)
 - [Smaller/Hobby Projects Built with Laravel/PHP](#smaller-ish-projects-built-with-laravelphp) (10 stories)
 
@@ -146,6 +146,14 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 ---
 
+[Zsoldos Szabolcs on X](https://x.com/SzabiZs/status/1986889000255095202):
+
+> Here is one of our B2B platforms. Migrated all the way fro Laravel 5 to 12.
+
+![](./images/zsoldos-b2b-458k.jpeg)
+
+---
+
 [Jonty Behr on X](https://x.com/jontybehr/status/1811316493906317636):
 
 > We're handling ~230m requests per month (~88 rps) on Laravel across 3 linked sites. Original codebase was written in Laravel 4, but has been upgraded along the way, and now on L11. Monoliths, fully tested, strong typehints.
@@ -179,6 +187,18 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 [Sergio on X](https://x.com/planetasergio/status/1986774584968786017):
 
 > [Medicloud.com.ar](https://medicloud.com.ar/) is a highly successful medical platform in Argentina. I am one of the co-founders. And I’m proud to share that the backend and the API are entirely built with PHP and Laravel.
+
+---
+
+[JustSteveKing on X](https://x.com/JustSteveKing/status/1986848203514519930):
+
+> The [Treblle.com](https://treblle.com/) code base was built using PHP and Laravel, and that handles (last I checked) half a billion requests per month.
+
+---
+
+[Jay Patel on X](https://x.com/jaypatel2406/status/1987097228368871847):
+
+> I have built an entire ERP for 3 security companies in Kenya with Laravel / Vue integrated with an Android application. The system effectively caters for management of HRM, CRM and BI for over 5,000 employees. It has been 5 years since the go-live. Good to see happy clients.
 
 ---
 
